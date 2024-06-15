@@ -4,5 +4,6 @@ Create an interactive navigation menu that changes color or style when scrolled 
 
 Responsive Landing Page
 #CodSoft
+Prodigy InfoTech
 
 
